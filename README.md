@@ -1,2 +1,3 @@
-# DevOpsTest
-This is a project to test the work for Assignment 4
+# devOps-project
+
+Simple Test Project for devOps Assignment
